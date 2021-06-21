@@ -1,0 +1,19 @@
+body {
+  background-color: #ffffff;
+}
+/*  background-image: url("https://media2.giphy.com/media/TIFaqk57482zqIjRBV/giphy.gif");*/
+h1 {
+  font-family: "Merienda", cursive;
+  color: #ffffff;
+}
+label,
+button {
+  font-family: "Dosis", sans-serif;
+  color: #ffffff;
+}
+.card {
+  background-color: #222426;
+}
+p {
+  color: #ffffff;
+}
